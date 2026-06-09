@@ -24,7 +24,7 @@ This project was created to practice frontend web development skills and demonst
 * Include destination search functionality
 * Improve responsiveness for all devices
 
-## Author
+## Creater
 
 Ananya Kushwaha
 Frontend Development Learner
